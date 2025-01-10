@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: chat
+
+production:
+  url:  http://localhost:5173/
