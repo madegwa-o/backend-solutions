@@ -30,5 +30,6 @@ public class WebSocketEventListener {
             messagingTemplate.convertAndSend("/topic/public", chatMessage);
         }
     }
+    //TODO: CONCURE THE WORLD AND LOOK GOOD DOING IT
 
 }
